@@ -1,0 +1,25 @@
+  <html>
+<head>
+<title>My webpage</title>
+<body>
+<table>
+    <tr>
+    <th>Gym</th>
+    <th>Core Enrichment</th>
+    <th>Social Studies</th>
+    <th>English</th>
+    <th>Math</th>
+    <th>Science</th>
+    </tr>
+    <tr>
+        <td>A</td>
+        <td>A</td>
+        <td>A</td>
+        <td>A</td>
+        <td>A</td>
+        <td>B+</td>
+    </tr>
+</table>
+</body>
+</head>
+</html>
